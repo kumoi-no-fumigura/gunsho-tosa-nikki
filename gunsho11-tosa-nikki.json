@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gunsho-tosa-nikki",
  "yomi": "とさにっき",
  "category": "日記",
- "description": null,
+ "description": {
+  "kind": "日記（紀行）",
+  "era": "承平5年（935）頃",
+  "author": "紀貫之",
+  "desc": "土佐守の任を終えた紀貫之が、京へ帰る船旅を女性の筆に託して仮名でつづった日記。任地で亡くした娘への思いが全編を流れる。"
+ },
  "editions": [
   {
    "pid": "1879538",
